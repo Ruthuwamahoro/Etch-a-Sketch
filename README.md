@@ -1,0 +1,1 @@
+Odin projects that create a webpage 16x16 grid of square divs.
